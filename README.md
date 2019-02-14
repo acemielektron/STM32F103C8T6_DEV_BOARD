@@ -1,0 +1,4 @@
+# STM32F103C8T6_DEV_BOARD
+
+Single sided DIY PCB for STM32F103C8T6
+No bridges
