@@ -12,7 +12,7 @@ Here is photos of earlier version:
 <img src="images/photo_2.jpg">Top side</img>
 
 And here images of pcb and schematic
-<img src="images/pcb.png>pcb"</img>
+<img src="images/pcb.png">pcb</img>
 <img src="images/schematic.png">schematic</img>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
