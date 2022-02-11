@@ -2,7 +2,7 @@
 
 Single sided DIY PCB for STM32F103C8T6
 
-There are many pcb designs for stm32f103 what makes this design special is:
+There are many pcb designs for stm32f103C8T6 what makes this design special is:
 - it's single sided
 - minimum number of bridges at top side (only one bridge)
 so it's very diy friendly (I think).
